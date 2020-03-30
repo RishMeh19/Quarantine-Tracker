@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "533811962796",
+    "firebase_url": "https://quarantine-tracker-272619.firebaseio.com",
+    "project_id": "quarantine-tracker-272619",
+    "storage_bucket": "quarantine-tracker-272619.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533811962796:android:a2b96ff54f7b642b605009",
+        "android_client_info": {
+          "package_name": "com.example.quarantinetracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "533811962796-iroci3l9cfkhqin6e3q5gllvv1uaf895.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxsZIoasE-h8JoIgbC9KmD_oU6PqKNg98"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "533811962796-iroci3l9cfkhqin6e3q5gllvv1uaf895.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
